@@ -1,2 +1,4 @@
-# learnGithub
-Learning how to use github and use it to collaborate with others
+# RESOLUSI TAHUN 2023
+1. MEMBUAT WEBSITE KOPI
+2. MENINGKATKAN SKILL PROGRAMMING
+
